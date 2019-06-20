@@ -250,7 +250,7 @@ public class UI extends JFrame{
 			
 			
 			int size = TokenList.size();
-			String[] title = {"Line","Name","??"};
+			String[] title = {"Line","Type","Data"};
 			String[][] data = new String[size][3]; 
 			
 			int i = 0;
